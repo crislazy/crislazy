@@ -3,6 +3,9 @@ I'm Cris, a Romanian developer from Romania and a proud HackClubber. I like maki
 - CSS
 - JavaScript
 - Python
+- Astro
+
+You can check out my website [here](https://crislzyx.zy)
 
 ## Coding Stats
 ![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22875&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
