@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=300&multiline=true&repeat=false&width=590&height=80&lines=Hello%2C+I'm+Cris;Romanian+Teen+Developer+%E2%80%A2+Hack+Clubber)](https://git.io/typing-svg)
 
-[![My Website](https://img.shields.io/badge/My%20Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crislzy.xyz) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@crislzy.xyz)
+[![My Website](https://img.shields.io/badge/My%20Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](https://crislzy.xyz) [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@crislzy.xyz) ![](https://komarev.com/ghpvc/?username=crislazy&style=for-the-badge)
 
 ---
 
