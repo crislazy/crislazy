@@ -14,7 +14,7 @@ I also like self-hosting things and experimenting with hardware, where I rarely 
 ### 🚧 Learning More About
 [![stuff :3](https://skillicons.dev/icons?i=ts,js,sqlite,docker,linux)](https://skillicons.dev)
 
-## 📊 Coding Stats
+### 📊 Coding Stats
 ![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22875&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
